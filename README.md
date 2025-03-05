@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I'm Alberto Lupatin  
 
-<!--
-**AlbertoLupatin/AlbertoLupatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 MSc student in **Bioinformatics and Computational Biology** at the University of Trento.  
+🎓 BSc in **Molecular Biology** from the University of Padova.  
 
-Here are some ideas to get you started:
+💻 Passionate about **microbiome, data analysis, and computational models** applied to biological systems.  
+📊 Interested in **sequence analysis, machine learning, and biological data visualization**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)  
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) 
+
+### 📫 **Get in touch**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alberto-lupatin-761697290/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](albylupatin2000@gmail.com)  
+
+## 📊 GitHub Stats  
+
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&theme=default)  
