@@ -1,5 +1,6 @@
 ### 👋 Hi, I'm Alberto Lupatin  
 
+🧫 Intern at **Leiden University Medical Center** (*LUMC*) - Department of Infectious Diseases (*LUCID*)
 🔬 MSc student in **Bioinformatics and Computational Biology** at the University of Trento.  
 🎓 BSc in **Molecular Biology** from the University of Padova.  
 
