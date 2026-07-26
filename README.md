@@ -2,7 +2,9 @@
 
 🦠 _**Pre-PhD**_ at Computational Metagenomics Lab - University of Trento
 
+
 **Background** 
+
 🏥 Internship at _**Leiden University Medical Center** (*LUMC*)_ - Department of Infectious Diseases (*LUCID*).  
 💻 MSc in _**Bioinformatics and Computational Biology**_ at the University of Trento.  
 🔬 BSc in _**Molecular Biology**_ from the University of Padova.  
