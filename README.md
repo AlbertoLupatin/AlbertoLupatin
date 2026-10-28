@@ -1,10 +1,11 @@
 ### 👋 Hi, I'm Alberto Lupatin  
 
-🦠 _**Pre-PhD**_ at Computational Metagenomics Lab - University of Trento
+**PhD Student at Segata Lab - CIBIO, Trento**
 
 
 **Background** 
 
+🦠 _**Pre-PhD**_ at Computational Metagenomics Lab - University of Trento
 🏥 Internship at _**Leiden University Medical Center** (*LUMC*)_ - Department of Infectious Diseases (*LUCID*).  
 💻 MSc in _**Quantitative and Computational Biology**_ at the University of Trento.  
 🔬 BSc in _**Molecular Biology**_ from the University of Padova.  
